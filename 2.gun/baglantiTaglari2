@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Başka Sayfaya Geçelim</h1>
+    <ol>
+      <li><a href="#psikoloji">Psikoloji</a></li>
+      <li><a href="#pdr">PDR</a></li>
+      <li><a href="#rehberlik">Rehberlik</a></li>
+    </ol>
+    <ul>
+      <li id="psikoloji">
+        <h3>Psikoloji</h3>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur et
+          itaque non? Incidunt perferendis nihil, totam nobis voluptatum quam
+          eius, beatae harum odit magnam dicta quibusdam vel fuga quas dolore.
+          Natus ullam quos maxime optio vel est, minus ducimus harum maiores
+          voluptatum, eligendi provident repellendus alias quaerat voluptate
+          aliquid tempore aut ipsa dolorem tempora velit nostrum officiis.
+          Aspernatur consectetur, enim quisquam dolorum harum dicta repudiandae
+          voluptatem odio, nemo ipsa rem non molestias numquam impedit excepturi
+          voluptate, vitae nostrum alias repellat dolores minima temporibus in
+          beatae! Sequi unde dolore similique, distinctio nobis corrupti ducimus
+          sapiente pariatur, eos, velit modi delectus ipsum? Asperiores sequi
+          eum distinctio quaerat similique omnis pariatur assumenda impedit
+          veritatis amet. Id dolores maxime at explicabo pariatur, eaque
+          blanditiis distinctio iure accusantium necessitatibus voluptate esse
+          molestiae fugit voluptatibus a rem ipsa deleniti, odio rerum magnam
+          eos! Explicabo minima eos excepturi assumenda perferendis
+          necessitatibus modi, doloremque dolore. Autem praesentium quibusdam
+          ipsum voluptatem fugiat iusto dolores quis? Ipsam nesciunt laboriosam
+          laborum fuga adipisci quas itaque qui, minima ut, nisi facere totam
+          recusandae facilis minus enim quo quibusdam atque. Perferendis minima
+          quae culpa explicabo ex voluptate harum ipsa natus. Modi
+          necessitatibus magnam molestias eos, recusandae eius impedit nostrum
+          blanditiis totam hic. Nihil, vero ex! Unde non sit perferendis
+          perspiciatis explicabo. Blanditiis voluptates error expedita,
+          praesentium dolorem laborum similique nulla incidunt accusantium modi
+          aperiam aliquam quisquam libero? Beatae est delectus animi eum
+          voluptates sed, quaerat iste. Cupiditate sapiente quibusdam facilis
+          vero, enim totam ad! Possimus aspernatur nulla voluptatum, et cumque
+          alias repellendus doloremque atque rerum placeat provident nesciunt
+          tenetur. Doloremque tempore animi dicta voluptatum laborum eos
+          doloribus quasi aspernatur in quisquam earum ratione, velit laboriosam
+          vitae possimus magni voluptate blanditiis itaque unde nemo deserunt
+          vero reiciendis. Quidem quae saepe animi exercitationem quam,
+          obcaecati quibusdam nesciunt architecto autem atque vel. Itaque esse
+          necessitatibus quaerat minus libero vero perspiciatis quidem? Labore
+          voluptatum quisquam, placeat blanditiis, natus assumenda earum ea quam
+          nulla quas est quae voluptatibus officiis a at aut eius. Laboriosam
+          omnis voluptate et beatae illum sequi nulla soluta quasi eveniet eius,
+          illo nostrum nisi neque! Ea minus suscipit distinctio, eaque, aliquid
+          laboriosam tempora voluptas ex pariatur dolores eum totam a nulla quos
+          delectus! Placeat aliquid voluptas totam suscipit incidunt pariatur
+          explicabo possimus ea aliquam, eveniet dolore molestias cupiditate
+          nihil modi optio eum vel asperiores blanditiis cum beatae dolor,
+          officia ex. Quae, nulla atque est, iure perspiciatis voluptatem
+          quibusdam laboriosam doloremque, corporis dolorem ad provident!
+          Maiores eaque totam quas sed exercitationem sapiente voluptas,
+          adipisci, vero ex neque dignissimos facilis nemo dolore quaerat
+          obcaecati cum consequuntur quidem perspiciatis deserunt porro eos iste
+          nesciunt. Nam ducimus nulla iste laboriosam hic accusamus eveniet
+          labore rem cupiditate sapiente, expedita magnam iure quasi assumenda
+          sequi voluptates necessitatibus quia id error minima. Atque facilis
+          deleniti illum culpa voluptatibus sapiente quaerat asperiores nisi
+          nihil. Magnam, consectetur temporibus esse consequuntur corporis
+          voluptate, placeat, velit nam quidem voluptates tempore quae aliquid!
+          Omnis minima itaque facere voluptates ullam officiis minus distinctio
+          nulla provident, et delectus repudiandae explicabo! Incidunt expedita
+          iure facilis labore, corporis culpa dolorum.
+        </p>
+      </li>
+    </ul>
+  </body>
+</html>
